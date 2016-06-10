@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="submit">Submit</string>
+    <string name="question_1">1. What is a device used to work with numbers called?</string>
+    <string name="question_2">2. Which of the following operation symbols are available in a basic calculator?</string>
+    <string name="question_3">3. Who invented the Pythagorean theorem of right angles?</string>
+    <string name="question_4">4. What do we call the counting system that uses only 0 and 1?</string>
+    <string name="question_5">5. Which of the following are numbering system used in mathematics?</string>
+    <string name="question_6">6. What is the name of an early calculator?</string>
+    <string name="calculator">Calculator</string>
+    <string name="contractor">Contractor</string>
+    <string name="dilator">Dilator</string>
+    <string name="generator">Generator</string>
+    <string name="accordion">Accordion</string>
+    <string name="abracadabra">Abracadabra</string>
+    <string name="acanthus">Acanthus</string>
+    <string name="abacus">Abacus</string>
+    <string name="decimal">Decimal</string>
+    <string name="finger">Finger</string>
+    <string name="octal">Octal</string>
+    <string name="tertiary">Tertiary</string>
+    <string name="answer_3">Pythagoras</string>
+    <string name="answer_4">Binary</string>
+    <string name="answer_the_question">Answer the question</string>
+    <string name="answer_all_the_questions">Answer all the questions</string>
+    <string name="incorrect_answer">Incorrect answer</string>
+    <string name="out_of_six">/6</string>
+    <string name="score_feedback">Final score of the quiz : </string>
+</resources>
